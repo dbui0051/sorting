@@ -19,7 +19,6 @@ function bubbleSort(array) {
 }
 
 
-
 function swapCount(){
 	return;
 }
